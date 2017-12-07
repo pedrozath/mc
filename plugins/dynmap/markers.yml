@@ -140,10 +140,10 @@ sets:
                 y: 64.5
                 z: 44.5
                 label: The Capital
-            _sign_world_986_64_-219:
+            _sign_world_-986_64_-219:
                 world: world
                 markup: true
-                x: 986
+                x: -986
                 icon: sign
                 y: 64.5
                 z: -219
