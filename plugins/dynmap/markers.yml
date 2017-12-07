@@ -1,0 +1,147 @@
+icons: {
+    }
+sets:
+    Nature:
+        hide: false
+        circles: {
+            }
+        deficon: default
+        areas: {
+            }
+        label: Nature
+        markers:
+            marker_1:
+                world: world
+                markup: false
+                x: -47.0
+                icon: default
+                y: 65.0
+                z: 11.0
+                label: Creeper Shore
+            marker_2:
+                world: world
+                markup: false
+                x: -343.0
+                icon: default
+                y: 70.0
+                z: 54.0
+                label: Moo Land
+        lines: {
+            }
+        layerprio: 0
+    Buildings:
+        hide: false
+        circles: {
+            }
+        deficon: default
+        areas: {
+            }
+        label: Buildings
+        markers:
+            marker_1:
+                world: world
+                markup: false
+                x: -270.0
+                icon: default
+                y: 67.0
+                z: 29.0
+                label: Gate
+            _sign_world_-169_66_64:
+                world: world
+                markup: true
+                x: -168.5
+                icon: sign
+                y: 66.5
+                z: 64.5
+                label: Warehouse
+            _sign_world_-187_65_-26:
+                world: world
+                markup: true
+                x: -186.5
+                icon: sign
+                y: 65.5
+                z: -25.5
+                label: Town of Redemption
+            _sign_world_-1035_65_-221:
+                world: world
+                markup: true
+                x: -1034.5
+                icon: sign
+                y: 65.5
+                z: -220.5
+                label: THE BONE ZONE &gt;:3
+            _sign_world_-211_66_79:
+                world: world
+                markup: true
+                x: -210.5
+                icon: sign
+                y: 66.5
+                z: 79.5
+                label: House of Little Secrets
+            theforge:
+                world: world
+                markup: false
+                x: -237.0
+                icon: default
+                y: 64.0
+                z: 48.0
+                label: The Forge
+        lines: {
+            }
+        layerprio: 0
+        minzoom: 3
+    markers:
+        hide: false
+        circles: {
+            }
+        deficon: default
+        areas: {
+            }
+        label: markers
+        markers: {
+            }
+        lines: {
+            }
+        layerprio: 0
+    Continents:
+        hide: false
+        circles: {
+            }
+        deficon: default
+        areas: {
+            }
+        label: Continents
+        markers:
+            marker_1:
+                world: world
+                markup: false
+                x: 5274.0
+                icon: default
+                y: 69.0
+                z: 1855.0
+                label: Macielia
+        lines: {
+            }
+        layerprio: 0
+    Feuds:
+        hide: false
+        circles: {
+            }
+        deficon: default
+        areas: {
+            }
+        label: Feuds
+        markers:
+            _sign_world_-188_64_44:
+                world: world
+                markup: true
+                x: -187.5
+                icon: sign
+                y: 64.5
+                z: 44.5
+                label: The Capital
+        lines: {
+            }
+        layerprio: 0
+playersets: {
+    }
