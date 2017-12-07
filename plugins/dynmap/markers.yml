@@ -69,7 +69,7 @@ sets:
                 icon: sign
                 y: 65.5
                 z: -220.5
-                label: THE BONE ZONE &gt;:3
+                label: The Bone Pit
             _sign_world_-211_66_79:
                 world: world
                 markup: true
@@ -140,6 +140,14 @@ sets:
                 y: 64.5
                 z: 44.5
                 label: The Capital
+            _sign_world_986_64_-219:
+                world: world
+                markup: true
+                x: 986
+                icon: sign
+                y: 64.5
+                z: -219
+                label: Hilderholm
         lines: {
             }
         layerprio: 0
